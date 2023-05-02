@@ -30,4 +30,4 @@ git clone https://github.com/[your-username]/I-94-westbound-traffic-analysis.git
 
 ## Credits
 
-Thanks to kaggle for providing the dataset used in this project. Special thanks to [insert names] for their contribution to this project.
+Thanks to kaggle for providing the dataset used in this project. Special thanks to leke for their contribution to this project.
